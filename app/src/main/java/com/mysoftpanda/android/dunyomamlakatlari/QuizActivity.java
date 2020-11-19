@@ -26,6 +26,7 @@ public class QuizActivity extends AppCompatActivity implements OnClickListener {
     public HashMap<Integer, ArrayList<String>> choice;
     private int count = 0;
 
+
     private int numberQuestions = 1;
     private ArrayList<String> questions = new ArrayList();
     private int score = 0;
