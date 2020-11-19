@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:gravity="center_horizontal"
+    android:layout_height="match_parent"
+    android:background="@drawable/worldcities"
+    android:orientation="vertical"
+    >
+
+
+    <ImageView
+        android:id="@+id/image_smd"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/ic_launcher" />
+
+
+    <TextView
+        android:id="@+id/countries_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+
+        android:layout_marginTop="50dp"
+
+        android:background="@drawable/circular_blue_solid"
+        android:clickable="true"
+        android:elevation="0dp"
+        android:focusable="true"
+        android:foreground="?selectableItemBackgroundBorderless"
+        android:gravity="center"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:text="DAVLATLAR"
+
+        android:textColor="#fff"
+        android:textSize="17sp" />
+    <TextView
+        android:id="@+id/capitals_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+
+        android:layout_marginTop="50dp"
+
+        android:background="@drawable/circular_blue_solid"
+        android:clickable="true"
+        android:elevation="0dp"
+        android:focusable="true"
+        android:foreground="?selectableItemBackgroundBorderless"
+        android:gravity="center"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:text="POYTAXTLAR"
+
+        android:textColor="#fff"
+        android:textSize="17sp" />
+    <TextView
+        android:id="@+id/test_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+
+        android:layout_marginTop="50dp"
+
+        android:background="@drawable/circular_blue_solid"
+        android:clickable="true"
+        android:elevation="0dp"
+        android:focusable="true"
+        android:foreground="?selectableItemBackgroundBorderless"
+        android:gravity="center"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:text="TEST SAVOLLARI"
+
+        android:textColor="#fff"
+        android:textSize="17sp" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="50dp">
+        <ImageButton
+            android:id="@+id/otherapps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorTransparent"
+            android:layout_weight="1"
+            android:src="@drawable/home_btn_otherapps" />
+        <ImageButton
+            android:id="@+id/rateapps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorTransparent"
+            android:paddingLeft="2dp"
+            android:paddingTop="3dp"
+            android:paddingRight="2dp"
+            android:src="@drawable/home_btn_rate" />
+        <ImageButton
+            android:id="@+id/shareapps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorTransparent"
+            android:src="@drawable/home_btn_share" />
+    </LinearLayout>
+
+</LinearLayout>
+<!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:ads="http://schemas.android.com/apk/res-auto"-->
+
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:background="#81ead4">-->
+
+<!--    <RelativeLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:background="81ead4">-->
+
+<!--        <RelativeLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="200dp"-->
+<!--            android:layout_alignParentBottom="true"-->
+<!--            android:background="res/drawable/worldcities.jpg" />-->
+<!--    </RelativeLayout>-->
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:orientation="vertical"-->
+<!--        android:padding="16dp">-->
+
+<!--        <Button-->
+<!--            android:id="@+id/country"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="70dp"-->
+<!--            android:background="res/drawable/buttonshape.xml"-->
+<!--            android:text="Davlatlar"-->
+<!--            android:textColor="ffffff"-->
+<!--            android:textSize="18sp" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/capital"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:background="res/drawable/buttonshape.xml"-->
+<!--            android:text="Poytaxtlar"-->
+<!--            android:textColor="resourceId:0x106000b"-->
+<!--            android:textSize="18sp" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/quiz"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:background="res/drawable/buttonshape.xml"-->
+<!--            android:text="Test savollari"-->
+<!--            android:textColor="ffffff"-->
+<!--            android:textSize="18sp" />-->
+<!--    </LinearLayout>-->
+
+<!--&lt;!&ndash;    <com.google.android.gms.ads.AdView&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="false"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="-2"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="-2"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_above="false"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_alignParentBottom="false"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_centerHorizontal="true"&ndash;&gt;-->
+<!--&lt;!&ndash;        ads:adSize="BANNER"&ndash;&gt;-->
+<!--&lt;!&ndash;        ads:adUnitId="ca-app-pub-8748606655964778/2129104709" />&ndash;&gt;-->
+
+<!--    <LinearLayout-->
+
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:orientation="horizontal">-->
+
+<!--        <ImageButton-->
+<!--            android:id="@+id/otherapps"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:background="resourceId:0x106000d"-->
+<!--            android:src="@drawable/home_btn_other_apps" />-->
+
+<!--        <ImageButton-->
+<!--            android:id="@+id/rateapps"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:background="resourceId:0x106000d"-->
+<!--            android:paddingLeft="2dp"-->
+<!--            android:paddingTop="3dp"-->
+<!--            android:paddingRight="2dp"-->
+<!--            android:src="@drawable/home_btn_rate" />-->
+
+<!--        <ImageButton-->
+<!--            android:id="@+id/shareapps"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:background="resourceId:0x106000d"-->
+<!--            android:src="@drawable/home_btn_share" />-->
+<!--    </LinearLayout>-->
+
+<!--    <ImageView-->
+<!--        android:layout_width="100dp"-->
+<!--        android:layout_height="70dp"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_marginTop="8dp"-->
+<!--        android:scaleType="centerInside"-->
+<!--        ads:srcCompat="res/drawable/ic_launcher.png" />-->
+<!--</RelativeLayout>-->

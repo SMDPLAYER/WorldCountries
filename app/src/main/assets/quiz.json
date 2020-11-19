@@ -1,0 +1,904 @@
+{
+  "table":[
+    {
+      "question": "Afg'oniston poytaxtini toping",
+      "answer": "Kobul",
+      "choice":["Boqu","Ostona","Kobul","Ashxobod"]
+    },
+    {
+      "question": "Albania poytaxtini toping",
+      "answer": "Tirana",
+      "choice":["Tehron","Skopje","Yervan","Tirana"]
+    },
+    {
+      "question": "Angola poytaxtini toping",
+      "answer": "Luanda",
+      "choice":["Harare","Luanda","Maputo","Dodoma"]
+    },
+    {
+      "question": "Antigua va Barbuda poytaxtini toping",
+      "answer": "Saint John's",
+      "choice":["Saint John's","Port Moresby","Basseterre","Kingstown"]
+    },
+    {
+      "question": "Argentina poytaxtini toping",
+      "answer": "Buenos Aires",
+      "choice":["Nassau","Asunción","Buenos Aires","Montevideo"]
+    },
+    {
+      "question": "Armaniston poytaxtini toping",
+      "answer": "Yerevan",
+      "choice":["Bucharest","Minsk","Valletta","Yerevan"]
+    },
+    {
+      "question": "Avstraliya poytaxtini toping",
+      "answer": "Kanberra",
+      "choice":["Kanberra","Managua","Ottava","Kingstown"]
+    },
+    {
+      "question": "Ozarbayjon poytaxtini toping",
+      "answer": "Boqu",
+      "choice":["Ostona","Boqu","Bishkek","Toshkent"]
+    },
+    {
+      "question": "Bahamas poytaxtini toping",
+      "answer": "Nassau",
+      "choice":["Chisinau","Nassau","Palikir","Naypyidaw"]
+    },
+    {
+      "question": "Bahrain poytaxtini toping",
+      "answer": "Manama",
+      "choice":["Riyadh","Doha","Manama","Muscat"]
+    },
+    {
+      "question": "Bangladesh poytaxtini toping",
+      "answer": "Dakka",
+      "choice":["Male","Dakka","Manila","Bangkok"]
+    },
+    {
+      "question": "Barbados poytaxtini toping",
+      "answer": "Bridgetown",
+      "choice":["Bridgetown","Dakka","Thimphu","Gaborone"]
+    },
+    {
+      "question": "Belarus poytaxtini toping",
+      "answer": "Minsk",
+      "choice":["Sofia","Tallinn","Minsk","Suva"]
+    },
+    {
+      "question": "Bryussel qaysi davlatning poytaxti?",
+      "answer": "Belgiya",
+      "choice":["Austria","Belgiya","Luxembourg","Swaziland"]
+    },
+    {
+      "question": "Vena qaysi davlatning poytaxti?",
+      "answer": "Austria",
+      "choice":["Lithuania","Vengriya","Austria","Estonia"]
+    },
+    {
+      "question": "Belmopan qaysi davlatning poytaxti?",
+      "answer": "Belize",
+      "choice":["Brunei","Belize","Nicaragua","Suriname"]
+    },
+    {
+      "question": "Porto-Novo qaysi davlatning poytaxti?",
+      "answer": "Benin",
+      "choice":["Equatorial Guinea","Chad","Burkina Faso","Benin"]
+    },
+    {
+      "question": "Thimphu qaysi davlatning poytaxti?",
+      "answer": "Bhutan",
+      "choice":["Nepal","Bhutan","Samoa","Haiti"]
+    },
+    {
+      "question": "La Paz qaysi davlatning poytaxti?",
+      "answer": "Bolivia",
+      "choice":["Bolivia","Venezuela","Peru","Columbiya"]
+    },
+    {
+      "question": "Moroni qaysi davlatning poytaxti?",
+      "answer": "Comoros",
+      "choice":["Vanuatu","Comoros","Lesotho","San Marino"]
+    },
+    {
+      "question": "Sarajevo qaysi davlatning poytaxti?",
+      "answer": "Bosnia and Herzegovina",
+      "choice":["Serbiya","Slovenia","Xorvatiya","Bosnia and Herzegovina"]
+    },
+    {
+      "question": "Gaborone qaysi davlatning poytaxti?",
+      "answer": "Botswana",
+      "choice":["Zambia","Uganda","Botswana","Tanzania"]
+    },
+    {
+      "question": "Braziliya qaysi davlatning poytaxti?",
+      "answer": "Braziliya",
+      "choice":["Panama","Argentina","Chili","Braziliya"]
+    },
+    {
+      "question": "Jazoir qaysi davlatning poytaxti?",
+      "answer": "Jazoir",
+      "choice":["Tunis","Jazoir","Morocco","Liviya"]
+    },
+    {
+      "question": "Bandar Seri Begawan qaysi davlatning poytaxti?",
+      "answer": "Brunei",
+      "choice":["Palau","Nauru","Cabo Verde","Brunei"]
+    },
+    {
+      "question": "Sofia qaysi davlatning poytaxti?",
+      "answer": "Bolgariya",
+      "choice":["Bolgariya","Ukraina","Slovakiya","Serbiya"]
+    },
+    {
+      "question": "Burkina Faso poytaxtini toping",
+      "answer": "Ouagadougou",
+      "choice":["Niamey","Abuja","Ouagadougou","Gaborone"]
+    },
+    {
+      "question": "Burundi poytaxtini toping",
+      "answer": "Bujumbura",
+      "choice":["Maputo","Windhoek","Managua","Bujumbura"]
+    },
+    {
+      "question": "Cabo Verde poytaxtini toping",
+      "answer": "Praia",
+      "choice":["Moroni","Praia","Ngerulmud","Gaborone"]
+    },
+    {
+      "question": "Cambodia poytaxtini toping",
+      "answer": "Phnom Penh",
+      "choice":["Phnom Penh","Port Moresby","Manila","Apia"]
+    },
+    {
+      "question": "Cameroon poytaxtini toping",
+      "answer": "Yaounde",
+      "choice":["Freetown","Kigali","Yaounde","Gaborone"]
+    },
+    {
+      "question": "Kanada poytaxtini toping",
+      "answer": "Ottava",
+      "choice":["Kanberra","Wellington","Kingstown","Ottava"]
+    },
+    {
+      "question": "Markaziy Afrika Respublikasi poytaxtini toping",
+      "answer": "Bangui",
+      "choice":["Bangui","N'Djamena","Kinshasa","Brazzaville"]
+    },
+    {
+      "question": "Chad poytaxtini toping",
+      "answer": "N'Djamena",
+      "choice":["Yamoussoukro","Kigali","Brazzaville","N'Djamena"]
+    },
+    {
+      "question": "Chili poytaxtini toping",
+      "answer": "Santiago",
+      "choice":["Kingston","Santiago","Montevideo","Buenos Aires"]
+    },
+    {
+      "question": "Xitoy poytaxtini toping",
+      "answer": "Pekin",
+      "choice":["Pekin","Seoul","Tokyo","Pyongyang"]
+    },
+    {
+      "question": "Bogotá qaysi davlatning poytaxti?",
+      "answer": "Columbiya",
+      "choice":["Peru","Venezuela","Columbiya","Bolivia"]
+    },
+    {
+      "question": "Kinshasa qaysi davlatning poytaxti?",
+      "answer": "D.R.Congo",
+      "choice":["Kongo Respublikasi","D.R.Congo","Sierra Leone","Efiopiya"]
+    },
+    {
+      "question": "Brazzaville qaysi davlatning poytaxti?",
+      "answer": "Kongo Respublikasi",
+      "choice":["Niger","Rwanda","Cote d'Ivoire","Kongo Respublikasi"]
+    },
+    {
+      "question": "San Jose qaysi davlatning poytaxti?",
+      "answer": "Costa Rica",
+      "choice":["Costa Rica","Cuba","Dominica","San Marino"]
+    },
+    {
+      "question": "Yamoussoukro qaysi davlatning poytaxti?",
+      "answer": "Cote d'Ivoire",
+      "choice":["Mozambique","Namibia","Cameroon","Cote d'Ivoire"]
+    },
+    {
+      "question": "Zagreb qaysi davlatning poytaxti?",
+      "answer": "Xorvatiya",
+      "choice":["Xorvatiya","Ukraina","Slovakiya","Serbiya"]
+    },
+    {
+      "question": "Havana qaysi davlatning poytaxti?",
+      "answer": "Cuba",
+      "choice":["Vanuatu","Saint Lucia","Dominica","Cuba"]
+    },
+    {
+      "question": "Nicosia qaysi davlatning poytaxti?",
+      "answer": "Kipr",
+      "choice":["Gretsiya","Turkey","Albania","Kipr"]
+    },
+    {
+      "question": "Praga qaysi davlatning poytaxti?",
+      "answer": "Chexiya ",
+      "choice":["Kosovo","Chexiya ","Slovakiya","Serbiya"]
+    },
+    {
+      "question": "Kopengagen qaysi davlatning poytaxti?",
+      "answer": "Daniya",
+      "choice":["Daniya","Norvegiya","Finlandiya","Shvetsiya"]
+    },
+    {
+      "question": "Dominica poytaxtini toping",
+      "answer": "Roseau",
+      "choice":["Quito","Santo Domingo","Roseau","Victoria"]
+    },
+    {
+      "question": "Dominika Respublikasining poytaxtini toping",
+      "answer": "Santo Domingo",
+      "choice":["Roseau","Santo Domingo","San Salvador","São Tomé"]
+    },
+    {
+      "question": "Ecuador poytaxtini toping",
+      "answer": "Quito",
+      "choice":["Quito","Georgetown","Karakas","Bogotá"]
+    },
+    {
+      "question": "Misr poytaxtini toping",
+      "answer": "Qohira",
+      "choice":["Tripoli","Qohira","Riyadh","Amman"]
+    },
+    {
+      "question": "El Salvador poytaxtini toping",
+      "answer": "San Salvador",
+      "choice":["Basseterre","San Marino","Victoria","San Salvador"]
+    },
+    {
+      "question": "Ekvator Gvineyasining poytaxtini toping",
+      "answer": "Malabo",
+      "choice":["Malabo","Libreville","Freetown","Pretoria"]
+    },
+    {
+      "question": "Eritrea poytaxtini toping",
+      "answer": "Asmara",
+      "choice":["Mogadishu","Khartoum","Juba","Asmara"]
+    },
+    {
+      "question": "Estonia poytaxtini toping",
+      "answer": "Tallinn",
+      "choice":["Tbilisi","Tallinn","Vilnius","Minsk"]
+    },
+    {
+      "question": "Efiopiya poytaxtini toping",
+      "answer": "Addis Ababa",
+      "choice":["Addis Ababa","Honiara","Accra","Abuja"]
+    },
+    {
+      "question": "Fiji poytaxtini toping",
+      "answer": "Suva",
+      "choice":["Mbabane","Funafuti","Suva","Port Vila"]
+    },
+    {
+      "question": "Helsinki qaysi davlatning poytaxti?",
+      "answer": "Finlandiya",
+      "choice":["Finlandiya","Shvetsiya","Norvegiya","Daniya"]
+    },
+    {
+      "question": "Paris qaysi davlatning poytaxti?",
+      "answer": "Fransiya",
+      "choice":["Portugaliya","Fransiya","Spain","Shvetsariya"]
+    },
+    {
+      "question": "Libreville qaysi davlatning poytaxti?",
+      "answer": "Gabon",
+      "choice":["Gambia","Guinea","Gabon","South Africa"]
+    },
+    {
+      "question": "Banjul qaysi davlatning poytaxti?",
+      "answer": "Gambia",
+      "choice":["Ghana","Guinea Bissau","Sudan","Gambia"]
+    },
+    {
+      "question": "Tbilisi qaysi davlatning poytaxti?",
+      "answer": "Gruziya",
+      "choice":["Gruziya","Belarus","Estonia","Latvia"]
+    },
+    {
+      "question": "Berlin qaysi davlatning poytaxti?",
+      "answer": "Germaniya",
+      "choice":["Vengriya","Germaniya","Iceland","Netherlands"]
+    },
+    {
+      "question": "Accra qaysi davlatning poytaxti?",
+      "answer": "Ghana",
+      "choice":["Guinea","Togo","Ghana","Uganda"]
+    },
+    {
+      "question": "Athens qaysi davlatning poytaxti?",
+      "answer": "Gretsiya",
+      "choice":["Gretsiya","Turkey","Albania","Kipr"]
+    },
+    {
+      "question": "Saint George's qaysi davlatning poytaxti?",
+      "answer": "Grenada",
+      "choice":["Iceland","Liechtenstein","Gruziya","Grenada"]
+    },
+    {
+      "question": "Conakry qaysi davlatning poytaxti?",
+      "answer": "Guinea",
+      "choice":["Guinea Bissau","Guinea","Tanzania","Kenya"]
+    },
+    {
+      "question": "Guinea-Bissau poytaxtini toping",
+      "answer": "Bissau",
+      "choice":["Conakry","Lomé","Bissau","Accra"]
+    },
+    {
+      "question": "Guyana poytaxtini toping",
+      "answer": "Georgetown",
+      "choice":["Port Vila","Paramaribo","Port of Spain","Georgetown"]
+    },
+    {
+      "question": "Haiti poytaxtini toping",
+      "answer": "Port au Prince",
+      "choice":["Port au Prince","Funafuti","Suva","Port Vila"]
+    },
+    {
+      "question": "Honduras poytaxtini toping",
+      "answer": "Tegucigalpa",
+      "choice":["Port of Spain","Tegucigalpa","Suva","Funafuti"]
+    },
+    {
+      "question": "Vengriya poytaxtini toping",
+      "answer": "Budapest",
+      "choice":["Riga","Bucharest","Budapest","Kyiv"]
+    },
+    {
+      "question": "Iceland poytaxtini toping",
+      "answer": "Reykjavik",
+      "choice":["Bern","Saint George's","Mbabane","Reykjavik"]
+    },
+    {
+      "question": "India poytaxtini toping",
+      "answer": "New Delhi",
+      "choice":["New Delhi","Dili","Ashxobod","Islamabad"]
+    },
+    {
+      "question": "Indonesia poytaxtini toping",
+      "answer": "Jakarta",
+      "choice":["Bangkok","Jakarta","Taipei","Naypyidaw"]
+    },
+    {
+      "question": "Eron poytaxtini toping",
+      "answer": "Tehron",
+      "choice":["Toshkent","Ostona","Tehron","Boqu"]
+    },
+    {
+      "question": "Iraq poytaxtini toping",
+      "answer": "Suva",
+      "choice":["Riyadh","Damascus","Amman","Baghdad"]
+    },
+    {
+      "question": "Dublin qaysi davlatning poytaxti?",
+      "answer": "Ireland",
+      "choice":["Ireland","Buyuk Britaniya","Germaniya","Latvia"]
+    },
+    {
+      "question": "Rome qaysi davlatning poytaxti?",
+      "answer": "Italy",
+      "choice":["Gretsiya","Italy","Spain","Fransiya"]
+    },
+    {
+      "question": "Kingston qaysi davlatning poytaxti?",
+      "answer": "Jamaica",
+      "choice":["Kiribati","Tuvalu","Jamaica","Saint Vincent and the Grenadines"]
+    },
+    {
+      "question": "Tokyo qaysi davlatning poytaxti?",
+      "answer": "Japan",
+      "choice":["Xitoy","South Korea","Shimoliy Koreya","Japan"]
+    },
+    {
+      "question": "Amman qaysi davlatning poytaxti?",
+      "answer": "Iordaniya",
+      "choice":["Iordaniya","Ummon","Qatar","Yemen"]
+    },
+    {
+      "question": "Ostona qaysi davlatning poytaxti?",
+      "answer": "Qozog'iston",
+      "choice":["O'zbekiston","Qozog'iston","Turkmaniston","Tojikistan"]
+    },
+    {
+      "question": "Nairobi qaysi davlatning poytaxti?",
+      "answer": "Kenya",
+      "choice":["Efiopiya","Djibouti","Kenya","Chad"]
+    },
+    {
+      "question": "South Tarawa qaysi davlatning poytaxti?",
+      "answer": "Kiribati",
+      "choice":["Samoa","Tuvalu","Vanuatu","Kiribati"]
+    },
+    {
+      "question": "Pristina qaysi davlatning poytaxti?",
+      "answer": "Kosovo",
+      "choice":["Kosovo","Serbiya","Bosnia and Herzegovina","Montenegro"]
+    },
+    {
+      "question": "Bishkek qaysi davlatning poytaxti?",
+      "answer": "Qirg'iziston",
+      "choice":["O'zbekiston","Qirg'iziston","Turkmaniston","Tojikistan"]
+    },
+    {
+      "question": "Laos poytaxtini toping ",
+      "answer": "Vientiane",
+      "choice":["Bangkok","Jakarta","Vientiane","Naypyidaw"]
+    },
+    {
+      "question": "Latvia   poytaxtini toping",
+      "answer": "Riga",
+      "choice":["Minsk","Tbilisi","Vilnius","Riga"]
+    },
+    {
+      "question": "Lebanon poytaxtini toping",
+      "answer": "Beirut",
+      "choice":["Beirut","Damascus","Muscat","Amman"]
+    },
+    {
+      "question": "Lesotho poytaxtini toping",
+      "answer": "Maseru",
+      "choice":["Kampala","Maseru","Lomé","Pretoria"]
+    },
+    {
+      "question": "Liberia poytaxtini toping",
+      "answer": "Monrovia",
+      "choice":["Lusaka","Harare","Monrovia","Libreville"]
+    },
+    {
+      "question": "Liviya poytaxtini toping",
+      "answer": "Tripoli",
+      "choice":["Nouakchott","Qohira","Rabat","Tripoli"]
+    },
+    {
+      "question": "Liechtenstein poytaxtini toping",
+      "answer": "Vaduz",
+      "choice":["Vaduz","Bern","Valletta","Skopje"]
+    },
+    {
+      "question": "Lithuania poytaxtini toping",
+      "answer": "Vilnius",
+      "choice":["Luxembourg","Vilnius","Tbilisi","Tallinn"]
+    },
+    {
+      "question": "Macedonia poytaxtini toping",
+      "answer": "Skopje",
+      "choice":["Yerevan","Tirana","Skopje","Sofia"]
+    },
+    {
+      "question": "Madagaskar poytaxtini toping",
+      "answer": "Antananarivo",
+      "choice":["Majuro","Maputo","Honiara","Antananarivo"]
+    },
+    {
+      "question": "Lilongwe qaysi davlatning poytaxti?",
+      "answer": "Malawi",
+      "choice":["Malawi","Mali","Rwanda","Saint Lucia"]
+    },
+    {
+      "question": "Kuala Lumpur qaysi davlatning poytaxti?",
+      "answer": "Malaysia",
+      "choice":["Cambodia","Malaysia","Filippin","Nauru"]
+    },
+    {
+      "question": "Male qaysi davlatning poytaxti?",
+      "answer": "Maldives",
+      "choice":["Sri Lanka","Timor-Leste","Maldives","Laos"]
+    },
+    {
+      "question": "Bamako qaysi davlatning poytaxti?",
+      "answer": "Mali",
+      "choice":["Niger","Rwanda","Chad","Mali"]
+    },
+    {
+      "question": "Valletta qaysi davlatning poytaxti?",
+      "answer": "Malta",
+      "choice":["Malta","Cabo Verde","Samoa","San Marino"]
+    },
+    {
+      "question": "Majuro qaysi davlatning poytaxti?",
+      "answer": "Marshall Islands",
+      "choice":["Mauritius","Marshall Islands","New Zealand","Saint Lucia"]
+    },
+    {
+      "question": "Nouakchott qaysi davlatning poytaxti?",
+      "answer": "Mauritania",
+      "choice":["Sierra Leone","Somalia","Mauritania","Sudan"]
+    },
+    {
+      "question": "Port Louis qaysi davlatning poytaxti?",
+      "answer": "Mauritius",
+      "choice":["Moldova","Saint Lucia","Seychelles","Mauritius"]
+    },
+    {
+      "question": "Palikir qaysi davlatning poytaxti?",
+      "answer": "Micronesia",
+      "choice":["Micronesia","New Zealand","Palau","Vanuatu"]
+    },
+    {
+      "question": "Chisinau qaysi davlatning poytaxti?",
+      "answer": "Moldova",
+      "choice":["Malta","Moldova","Bolgariya","Slovakiya"]
+    },
+    {
+      "question": "Mongoliya poytaxtini toping",
+      "answer": "Ulaanbaatar",
+      "choice":["Thimphu","Kathmandu","Ulaanbaatar","Yaren District"]
+    },
+    {
+      "question": "Montenegro poytaxtini toping",
+      "answer": "Podgorica",
+      "choice":["Yerevan","Tirana","Skopje","Podgorica"]
+    },
+    {
+      "question": "Morocco poytaxtini toping",
+      "answer": "Rabat",
+      "choice":["Rabat","Nouakchott","Tunis","Tripoli"]
+    },
+    {
+      "question": "Mozambique poytaxtini toping",
+      "answer": "Maputo",
+      "choice":["Niamey","Maputo","Kigali","Dodoma"]
+    },
+    {
+      "question": "Myanmar poytaxtini toping",
+      "answer": "Naypyidaw",
+      "choice":["Kathmandu","Belmopan","Naypyidaw","Boqu"]
+    },
+    {
+      "question": "Namibia poytaxtini toping",
+      "answer": "Windhoek",
+      "choice":["Bujumbura","Yaounde","Mogadishu","Windhoek"]
+    },
+    {
+      "question": "Nauru poytaxtini toping",
+      "answer": "Yaren District",
+      "choice":["Yaren District","Thimphu","Manila","San Jose"]
+    },
+    {
+      "question": "Nepal poytaxtini toping",
+      "answer": "Kathmandu",
+      "choice":["Thimphu","Kathmandu","Naypyidaw","Ngerulmud"]
+    },
+    {
+      "question": "Netherlands poytaxtini toping",
+      "answer": "Amsterdam",
+      "choice":["Vena","Bryussel","Amsterdam","Kopengagen"]
+    },
+    {
+      "question": "New Zealand poytaxtini toping",
+      "answer": "Wellington",
+      "choice":["Port Moresby","Apia","Kanberra","Wellington"]
+    },
+    {
+      "question": "Managua qaysi davlatning poytaxti?",
+      "answer": "Nicaragua",
+      "choice":["Nicaragua","Panama","Costa Rica","Saint Lucia"]
+    },
+    {
+      "question": "Niamey qaysi davlatning poytaxti?",
+      "answer": "Niger",
+      "choice":["Niger","Rwanda","Chad","Burkina Faso"]
+    },
+    {
+      "question": "Abuja qaysi davlatning poytaxti?",
+      "answer": "Nigeria",
+      "choice":["Niger","Nigeria","Chad","Mali"]
+    },
+    {
+      "question": "Pyongyang qaysi davlatning poytaxti?",
+      "answer": "Shimoliy Koreya",
+      "choice":["Filippin","South Korea","Shimoliy Koreya","Xitoy"]
+    },
+    {
+      "question": "Oslo qaysi davlatning poytaxti?",
+      "answer": "Norvegiya",
+      "choice":["Shvetsiya","Daniya","Finlandiya","Norvegiya"]
+    },
+    {
+      "question": "Muscat qaysi davlatning poytaxti?",
+      "answer": "Ummon",
+      "choice":["Ummon","Qatar","Bahrain","Kuwait"]
+    },
+    {
+      "question": "Islamabad qaysi davlatning poytaxti?",
+      "answer": "Pokistan",
+      "choice":["Tojikistan","Pokistan","Thailand","Indonesia"]
+    },
+    {
+      "question": "Ngerulmud qaysi davlatning poytaxti?",
+      "answer": "Palau",
+      "choice":["Cabo Verde","Maldives","Palau","Vanuatu"]
+    },
+    {
+      "question": "Port Moresby qaysi davlatning poytaxti?",
+      "answer": "Papua New Guinea",
+      "choice":["Samoa","Saint Lucia","New Zealand","Papua New Guinea"]
+    },
+    {
+      "question": "Asunción qaysi davlatning poytaxti?",
+      "answer": "Paraguay",
+      "choice":["Paraguay","Peru","Chili","Uruguay"]
+    },
+    {
+      "question": "Peru",
+      "answer": "Lima",
+      "choice":["Lima","Santiago","Bogotá","Karakas"]
+    },
+    {
+      "question": "Filippin poytaxtini toping",
+      "answer": "Manila",
+      "choice":["Hanoi","Manila","Vientiane","Kuala Lumpur"]
+    },
+    {
+      "question": "Polsha poytaxtini toping",
+      "answer": "Varshava",
+      "choice":["Bratislava","Ljubljana","Varshava","Berlin"]
+    },
+    {
+      "question": "Portugaliya poytaxtini toping",
+      "answer": "Lisbon",
+      "choice":["Madrid","Paris","Bern","Lisbon"]
+    },
+    {
+      "question": "Qatar poytaxtini toping",
+      "answer": "Doha",
+      "choice":["Doha","Abu Dhabi","Manama","Muscat"]
+    },
+    {
+      "question": "RUmmonia poytaxtini toping",
+      "answer": "Bucharest",
+      "choice":["Bratislava","Bucharest","Budapest","Kyiv"]
+    },
+    {
+      "question": "Russia poytaxtini toping",
+      "answer": "Moscow",
+      "choice":["Riga","Vilnius","Moscow","Minsk"]
+    },
+    {
+      "question": "Rwanda poytaxtini toping",
+      "answer": "Kigali",
+      "choice":["Kinshasa","Brazzaville","Djibouti","Kigali"]
+    },
+    {
+      "question": "Saint Kitts and Nevis is",
+      "answer": "Basseterre",
+      "choice":["Basseterre","Castries","Apia","Sao Tomé"]
+    },
+    {
+      "question": "Saint Lucia poytaxtini toping",
+      "answer": "Castries",
+      "choice":["San Marino","Castries","Port Vila","Suva"]
+    },
+    {
+      "question": "Apia qaysi davlatning poytaxti?",
+      "answer": "Samoa",
+      "choice":["Sao Tome and Principe","San Marino","Samoa","Mauritius"]
+    },
+    {
+      "question": "Riyadh qaysi davlatning poytaxti?",
+      "answer": "Saudi Arabia",
+      "choice":["Qatar","Ummon","Iordaniya","Saudi Arabia"]
+    },
+    {
+      "question": "Dakar qaysi davlatning poytaxti?",
+      "answer": "Senegal",
+      "choice":["Senegal","Efiopiya","Ghana","Mali"]
+    },
+    {
+      "question": "Belgrade qaysi davlatning poytaxti?",
+      "answer": "Serbiya",
+      "choice":["Kosovo","Serbiya","Macedonia","Montenegro"]
+    },
+    {
+      "question": "Victoria qaysi davlatning poytaxti?",
+      "answer": "Seychelles",
+      "choice":["El Salvador","Solomon Islands","Seychelles","Cabo Verde"]
+    },
+    {
+      "question": "Freetown qaysi davlatning poytaxti?",
+      "answer": "Sierra Leone",
+      "choice":["Gabon","Guinea","Senegal","Sierra Leone"]
+    },
+    {
+      "question": "Bratislava qaysi davlatning poytaxti?",
+      "answer": "Slovakiya",
+      "choice":["Slovakiya","Slovenia","Bolgariya","Ukraina"]
+    },
+    {
+      "question": "Ljubljana qaysi davlatning poytaxti?",
+      "answer": "Slovenia",
+      "choice":["Chexiya ","Slovenia","Slovakiya","Vengriya"]
+    },
+    {
+      "question": "Honiara qaysi davlatning poytaxti?",
+      "answer": "Solomon Islands",
+      "choice":["Haiti","Saint Lucia","Solomon Islands","Madagaskar"]
+    },
+    {
+      "question": "Mogadishu qaysi davlatning poytaxti?",
+      "answer": "Somalia",
+      "choice":["Eritrea","Djibouti","Efiopiya","Somalia"]
+    },
+    {
+      "question": "South Africa poytaxtini toping",
+      "answer": "Pretoria",
+      "choice":["Pretoria","Kampala","Lusaka","Kigali"]
+    },
+    {
+      "question": "South Korea poytaxtini toping",
+      "answer": "Seoul",
+      "choice":["Pyongyang","Seoul","Beijing","Taipei"]
+    },
+    {
+      "question": "South Sudan poytaxtini toping",
+      "answer": "Juba",
+      "choice":["Khartoum","Nairobi","Juba","Monrovia"]
+    },
+    {
+      "question": "Spain poytaxtini toping",
+      "answer": "Madrid",
+      "choice":["Dublin","Rome","Lisbon","Madrid"]
+    },
+    {
+      "question": "Sudan poytaxtini toping",
+      "answer": "Khartoum",
+      "choice":["Khartoum","Juba","Lomé","Addis Ababa"]
+    },
+    {
+      "question": "Suriname poytaxtini toping",
+      "answer": "Paramaribo",
+      "choice":["Georgetown","Paramaribo","Tegucigalpa","Port of Spain"]
+    },
+    {
+      "question": "Swaziland poytaxtini toping",
+      "answer": "Mbabane",
+      "choice":["Funafuti","Port Vila","Mbabane","Santo Domingo"]
+    },
+    {
+      "question": "Shvetsiya poytaxtini toping",
+      "answer": "Stockholm",
+      "choice":["Oslo","Kopengagen","Helsinki","Stockholm"]
+    },
+    {
+      "question": "Shvetsariya poytaxtini toping",
+      "answer": "Bern",
+      "choice":["Bern","Luxembourg","Bryussel","Vena"]
+    },
+    {
+      "question": "Suriya poytaxtini toping",
+      "answer": "Damashq",
+      "choice":["Beirut","Damashq","Amman","Anqara"]
+    },
+    {
+      "question": "Taipei qaysi davlatning poytaxti?",
+      "answer": "Taiwan",
+      "choice":["Thailand","Sri Lanka","Taiwan","Filippin"]
+    },
+    {
+      "question": "Dushanbe qaysi davlatning poytaxti?",
+      "answer": "Tojikistan",
+      "choice":["Turkmaniston","O'zbekiston","Qozog'iston","Tojikistan"]
+    },
+    {
+      "question": "Dodoma qaysi davlatning poytaxti?",
+      "answer": "Tanzania",
+      "choice":["Tanzania","Togo","Efiopiya","Mozambique"]
+    },
+    {
+      "question": "Bangkok qaysi davlatning poytaxti?",
+      "answer": "Thailand",
+      "choice":["Indonesia","Thailand","Vietnam","Singapore"]
+    },
+    {
+      "question": "Dili qaysi davlatning poytaxti?",
+      "answer": "Timor-Leste",
+      "choice":["Laos","Cambodia","Timor-Leste","Nepal"]
+    },
+    {
+      "question": "Lomé qaysi davlatning poytaxti?",
+      "answer": "Togo",
+      "choice":["Kenya","Nigeria","Mali","Togo"]
+    },
+    {
+      "question": "Port of Spain qaysi davlatning poytaxti?",
+      "answer": "Trinidad and Tobago",
+      "choice":["Trinidad and Tobago","Honduras","Haiti","Spain"]
+    },
+    {
+      "question": "Tunis qaysi davlatning poytaxti?",
+      "answer": "Tunis",
+      "choice":["Liviya","Tunis","Jazoir","Misr"]
+    },
+    {
+      "question": "Anqara qaysi davlatning poytaxti?",
+      "answer": "Turkey",
+      "choice":["Tunis","Syria","Turkey","Kipr"]
+    },
+    {
+      "question": "Ashxobod qaysi davlatning poytaxti?",
+      "answer": "Turkmaniston",
+      "choice":["Qirg'iziston","Tojikistan","Ozarbayjon","Turkmaniston"]
+    },
+    {
+      "question": "Tuvalu poytaxtini toping",
+      "answer": "Funafuti",
+      "choice":["Funafuti","Victoria","Port Moresby","Praia"]
+    },
+    {
+      "question": "Uganda poytaxtini toping",
+      "answer": "Kampala",
+      "choice":["Lusaka","Kampala","Harare","Dodoma"]
+    },
+    {
+      "question": "Ukraina poytaxtini toping",
+      "answer": "Kyiv",
+      "choice":["Pristina","Budapest","Kyiv","Sofia"]
+    },
+    {
+      "question": "United Arab Emirates  poytaxtini toping",
+      "answer": "Abu Dhabi",
+      "choice":["Riyadh","Doha","Manama","Abu Dhabi"]
+    },
+    {
+      "question": "Buyuk Britaniyaning poytaxtini toping",
+      "answer": "London",
+      "choice":["London","Vaduz","Dublin","Georgetown"]
+    },
+    {
+      "question": "United States of America poytaxtini toping",
+      "answer": "Washington",
+      "choice":["Georgetown","Washington","Ottava","Kanberra"]
+    },
+    {
+      "question": "Uruguay poytaxtini toping",
+      "answer": "Montevideo",
+      "choice":["Buenos Aires","Santiago","Montevideo","Asunción"]
+    },
+    {
+      "question": "O'zbekiston poytaxtini toping",
+      "answer": "Toshkent",
+      "choice":["Bishkek","Ashxobod","Boqu","Toshkent"]
+    },
+    {
+      "question": "Vanuatu poytaxtini toping",
+      "answer": "Port Vila",
+      "choice":["Port Vila","Kingston","Kingstown","Apia"]
+    },
+    {
+      "question": "Venezuela poytaxtini toping",
+      "answer": "Karakas",
+      "choice":["La Paz","Karakas","Bogotá","Lima"]
+    },
+    {
+      "question": "Hanoi qaysi davlatning poytaxti?",
+      "answer": "Vietnam",
+      "choice":["Vietnam","Thailand","Singapore","Malaysia"]
+    },
+    {
+      "question": "Sana'a qaysi davlatning poytaxti?",
+      "answer": "Yemen",
+      "choice":["Qatar","Yemen","Ummon","Bahrain"]
+    },
+    {
+      "question": "Zambia poytaxtini toping",
+      "answer": "Lusaka",
+      "choice":["Harare","Kampala","Lusaka","Lomé"]
+    },
+    {
+      "question": "Zimbabwe poytaxtini toping",
+      "answer": "Harare",
+      "choice":["Yamoussoukro","Yaounde","Abuja","Harare"]
+    }
+  ]
+}

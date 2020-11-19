@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/seekbar">
+		<shape android:shape="line">
+			<stroke android:width="2dp" android:color="#ffffff" />
+		</shape>
+	</item>
+	<item android:id="@+id/seekbar2">
+		<clip>
+			<shape android:shape="line">
+				<stroke android:width="2dp" android:color="#fd8177" />
+			</shape>
+		</clip>
+	</item>
+	<item android:id="@+id/seekbar3">
+		<clip>
+			<shape android:shape="line">
+				<stroke android:width="2dp" android:color="#dc473a" />
+			</shape>
+		</clip>
+	</item>
+</layer-list>

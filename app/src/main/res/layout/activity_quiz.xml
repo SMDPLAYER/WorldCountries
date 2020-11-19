@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+	android:gravity="center_horizontal"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp">
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		<TextView
+
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Q"
+			android:textColor="#1cb3ea"
+			android:textSize="20sp" />
+
+		<TextView
+			android:id="@+id/qText2"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="10dp"
+
+			android:textColor="#1cb3ea"
+			android:textSize="20sp" />
+
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+
+			android:text="/20"
+			android:textColor="#1cb3ea"
+			android:textSize="20sp" />
+	</LinearLayout>
+
+
+
+    <TextView
+
+        android:id="@+id/testquizText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="35dp"
+        android:gravity="top"
+        android:textColor="#1cb3ea"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+  >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/buttonQuiz1"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_color_custom"
+                android:textColor="#1cb3ea" />
+
+            <Button
+                android:id="@+id/buttonQuiz2"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/button_color_custom"
+                android:textColor="#1cb3ea" />
+
+            <Button
+                android:id="@+id/buttonQuiz3"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/button_color_custom"
+                android:textColor="#1cb3ea" />
+
+            <Button
+                android:id="@+id/buttonQuiz4"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/button_color_custom"
+                android:textColor="#1cb3ea" />
+        </LinearLayout>
+    </RelativeLayout>
+
+ 
+</LinearLayout>

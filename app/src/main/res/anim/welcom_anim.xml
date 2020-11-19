@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+	<scale
+		android:duration="2000"
+		android:fromXScale="0.3"
+		android:toXScale="1.0"
+		android:fromYScale="0.3"
+		android:toYScale="1.0"
+		android:pivotX="50%"
+		android:pivotY="50%" />
+<!--    <scale-->
+<!--        android:duration="1000"-->
+<!--        android:fromXScale="4"-->
+<!--        android:fromYScale="{4:1065353216}"-->
+<!--        android:pivotX="1.5046333E-36%"-->
+<!--        android:pivotY="1.5046333E-36%"-->
+<!--        android:toXScale="{4:1069547520}"-->
+<!--        android:toYScale="{4:1069547520}" />-->
+<!--    <scale-->
+<!--        android:duration="1000"-->
+<!--        android:fromXScale="{4:1069547520}"-->
+<!--        android:fromYScale="{4:1069547520}"-->
+<!--        android:pivotX="1.5046333E-36%"-->
+<!--        android:pivotY="1.5046333E-36%"-->
+<!--        android:startOffset="1000"-->
+<!--        android:toXScale="{4:1065353216}"-->
+<!--        android:toYScale="{4:1065353216}" />-->
+<!--    <scale-->
+<!--        android:duration="1000"-->
+<!--        android:fromXScale="{4:1065353216}"-->
+<!--        android:fromYScale="{4:1065353216}"-->
+<!--        android:pivotX="1.5046333E-36%"-->
+<!--        android:pivotY="1.5046333E-36%"-->
+<!--        android:startOffset="2000"-->
+<!--        android:toXScale="{4:1069547520}"-->
+<!--        android:toYScale="{4:1069547520}" />-->
+<!--    <scale-->
+<!--        android:duration="1000"-->
+<!--        android:fromXScale="{4:1069547520}"-->
+<!--        android:fromYScale="{4:1069547520}"-->
+<!--        android:pivotX="1.5046333E-36%"-->
+<!--        android:pivotY="1.5046333E-36%"-->
+<!--        android:startOffset="3000"-->
+<!--        android:toXScale="{4:1065353216}"-->
+<!--        android:toYScale="{4:1065353216}" />-->
+<!--    <alpha-->
+<!--        android:duration="1000"-->
+<!--        android:fromAlpha="{4:1065353216}"-->
+<!--        android:startOffset="4000"-->
+<!--        android:toAlpha="{4:0}" />-->
+</set>
